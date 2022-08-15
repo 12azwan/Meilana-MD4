@@ -48,7 +48,7 @@ global.urlnya = "https://www.instagram.com/kokopangeran_"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+79811950242'
+global.phn = '+6288212514602'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -69,19 +69,19 @@ global.fla = pickRandom(flaaa)
 
 /*============== PAYMENT ==============*/
 global.saweria = "https://saweria.co/kokopangeran"// website saweria.co
-global.dana = ["087832147584"]
-global.pulsa = ["087832147584"] //pulsa here
+global.dana = ["088212514602"]
+global.pulsa = ["088212514602"] //pulsa here
 global.trakteer = "https://trakteer.id/kokopangeran"//Link url https://
 global.paypal = "pangeran.dwnta01@gmail.com" //paypal email
 global.gopay = "087832147584"//Numver for Payment digital Gopay Gojek
 global.instagram = "https://instagram.com/kokopangeran_
 
 /*============== PAYMENT ==============*/
-global.pdana = '087832147584'
-global.povo = '087832147584'
-global.pgopay = '087832147584'
-global.ppulsa = '087832147584'
-global.ppulsa2 = '087832147584'
+global.pdana = '088212514602'
+global.povo = '088212514602'
+global.pgopay = '088212514602'
+global.ppulsa = '088212514602'
+global.ppulsa2 = '088212514602'
 global.psaweria = 'https://saweria.com/kokopangeran'
 
 
